@@ -1,3 +1,7 @@
+**Stack:** React, AWS Amplify
+
+**Skills:** Frontend apps, generated cloud backends
+
 Demo app - AWS Amplify 
 
 The Amplify Framework provides a set of libraries and UI components and a command line interface to build mobile backends and integrate with your iOS, Android, Web, and React Native apps. 
